@@ -19,6 +19,7 @@
     "backgroundColor": "#eee",
     "backgroundImage": "bg.jpg",
     "foregroundColor": "#de1e3d",
+    "captionColor": "#930025",
     "captionFont": "300 52px 'Ratio'"
   },
   "Basic": {
