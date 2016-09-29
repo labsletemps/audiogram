@@ -15,6 +15,12 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
+  "Partageons un vers": {
+    "backgroundColor": "#eee",
+    "backgroundImage": "bg.jpg",
+    "foregroundColor": "#de1e3d",
+    "captionFont": "300 52px 'Ratio'",
+  },
   "Basic": {
     "backgroundColor": "#eee",
     "foregroundColor": "#de1e3d"
