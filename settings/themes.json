@@ -23,6 +23,14 @@
     "waveColor": "#6f7072",
     "captionFont": "300 52px 'Ratio'"
   },
+  "Hebdo": {
+    "backgroundColor": "#E3000B",
+    "backgroundImage": "bg-hebdo.jpg",
+    "foregroundColor": "#FFFFFF",
+    "captionColor": "#FFFFFF",
+    "waveColor": "#FFFFFF",
+    "captionFont": "300 52px 'Source Sans Pro'"
+  },
   "Basic": {
     "backgroundColor": "#eee",
     "foregroundColor": "#de1e3d"
