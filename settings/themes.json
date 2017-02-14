@@ -37,7 +37,7 @@
     "foregroundColor": "#FFFFFF",
     "captionColor": "#FFFFFF",
     "waveColor": "#FFFFFF",
-    "waveTop": 0,
+    "waveTop": 600,
     "waveBottom": 720,
     "captionFont": "300 52px 'Source Sans Pro'"
   },
