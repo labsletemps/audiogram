@@ -32,6 +32,7 @@
     "captionFont": "300 52px 'Source Sans Pro'"
   },
   "Bolero": {
+    "maxDuration": 500,
     "backgroundColor": "#000000",
     "backgroundImage": "bolero.png",
     "foregroundColor": "#FFFFFF",
