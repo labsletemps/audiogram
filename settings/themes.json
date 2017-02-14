@@ -36,9 +36,10 @@
     "backgroundImage": "bolero.png",
     "foregroundColor": "#FFFFFF",
     "captionColor": "#FFFFFF",
+    "pattern": "bars",
     "waveColor": "#FFFFFF",
-    "waveTop": 600,
-    "waveBottom": 720,
+    "waveTop": 580,
+    "waveBottom": 700,
     "captionFont": "300 52px 'Source Sans Pro'"
   },
   "Basic": {
