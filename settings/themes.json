@@ -35,7 +35,7 @@
     "backgroundColor": "#000000",
     "backgroundImage": "bolero.png",
     "foregroundColor": "#FFFFFF",
-    "captionFont": "300 52px 'Source Sans Pro'"
+    "captionFont": "300 52px 'Source Sans Pro'",
     "captionColor": "#FFFFFF",
     "captionTop": 360,
     "captionLeft": 200,
