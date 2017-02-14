@@ -31,6 +31,16 @@
     "waveColor": "#FFFFFF",
     "captionFont": "300 52px 'Source Sans Pro'"
   },
+  "Bolero": {
+    "backgroundColor": "#000000",
+    "backgroundImage": "bolero.png",
+    "foregroundColor": "#FFFFFF",
+    "captionColor": "#FFFFFF",
+    "waveColor": "#FFFFFF",
+    "waveTop": 0,
+    "waveBottom": 720,
+    "captionFont": "300 52px 'Source Sans Pro'"
+  },
   "Basic": {
     "backgroundColor": "#eee",
     "foregroundColor": "#de1e3d"
