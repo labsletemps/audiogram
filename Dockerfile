@@ -20,6 +20,3 @@ WORKDIR /home/audiogram/audiogram
 
 # Install dependencies
 RUN npm install
-
-ENTRYPOINT ["npm start"]
-VOLUME /home/audiogram
