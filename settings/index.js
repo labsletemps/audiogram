@@ -21,7 +21,7 @@ var path = require("path");
 module.exports = {
   workingDirectory: path.join(__dirname, "..", "tmp"),
   storagePath: path.join(__dirname, "..", "media"),
-  // redisHost: "127.0.0.1",
+  redisHost: "127.0.0.1",
   // worker: true,
   fonts: [
     { family: "Ratio", file: path.join(__dirname, "fonts", "ratio_reg.ttf") },
